@@ -34,7 +34,7 @@ Install the Persian language pack via composer is never easier.
 **Install Persian pack**:
 
 ```
-composer require mageplaza/magento-2-persian-language-pack:*
+composer require mageplaza/magento-2-persian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy fa-ir
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy fa-ir
 **Update  Persian pack**:
 
 ```
-composer update mageplaza/magento-2-persian-language-pack:*
+composer update mageplaza/magento-2-persian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy fa-ir
 
