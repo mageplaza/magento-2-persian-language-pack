@@ -2727,6 +2727,9 @@ Payment,Payment,module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
 "Thank you for your purchase!","از شما برای خریدتان سپاس گزاریم!",module,Magento_Checkout
 "Go to Checkout","Go to Checkout",module,Magento_Checkout
+"View and edit cart","View and edit cart",module,Magento_Checkout
+"Item in Cart","Item in Cart",module,Magento_Checkout
+"Items in Cart","آیتم‌های درون سبد",module,Magento_Checkout
 "Terms and Conditions","شرایط و ضوابط",module,Magento_CheckoutAgreements
 "Add New Condition","افزودن شرط جدید",module,Magento_CheckoutAgreements
 "Save Condition","ذخیره‌ی شرط",module,Magento_CheckoutAgreements
@@ -6313,6 +6316,7 @@ Partners,همکاران,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,"هم زمان سازی",module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,"در حال همگام سازی...",module,Magento_MediaStorage
