@@ -10,9 +10,9 @@ None,"هیچ یک",module,Magento_AdminGws
 "You need more permissions to delete this item.","شما دسترسی بالاتری نیاز دارید تا این موارد را حذف کنید: %1.",module,Magento_AdminGws
 "You need more permissions to view this item.","شما دسترسی بالاتری نیاز دارید تا این موارد را مشاهده کنید: %1.",module,Magento_AdminGws
 "Please specify at least one website or one store group.","لطفا حداقل یک وب سایت یا فروشگاه یک گروه را مشخص کنید.",module,Magento_AdminGws
-"You need more permissions to set All Scopes to a Role.","شما مجوزهای بیشتری نیاز دارید تا تمام زمينه های قانون را تنظیم کنید.",module,Magento_AdminGws
-"Incorrect website ID: %1","وب سایت اشتباه: %1",module,Magento_AdminGws
-"You need more permissions to access website ""%1"".","شما دسترسی بالاتری نیاز دارید تا این وبسایت را مشاهده کنید: %1.",module,Magento_AdminGws
+"You need more permissions to set All Scopes to a Role.","شما برای تنظیم تمامی دسترسیهای یک نقش، نیاز به مجوزهای بیشتری دارید.",module,Magento_AdminGws
+"Incorrect website ID: %1","شناسه وبسایت نادرست: %1",module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","برای دسترسی به وبسایت نیاز به مجوزهای بیشتر دارید: %1.",module,Magento_AdminGws
 "Incorrect store ID: %1","وب سایت اشتباه: %1",module,Magento_AdminGws
 "You need more permissions to save this setting.","شما دسترسی بالاتری نیاز دارید تا این موارد را ذخیره کنید: %1.",module,Magento_AdminGws
 "Role Scopes","محدوده های قانون",module,Magento_AdminGws
