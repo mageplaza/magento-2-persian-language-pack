@@ -7896,69 +7896,69 @@
 "Quote Total (Negotiated)","مجموع پیش فاکتور (مورد توافق)",module,Magento_NegotiableQuote
 "Quote Name","نام پیش فاکتور",module,Magento_NegotiableQuote
 "Quote Total","مجموع پیش فاکتور",module,Magento_NegotiableQuote
-"No such public catalog entity","No such public catalog entity",module,Magento_NegotiableQuoteSharedCatalog
-"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_NegotiableQuoteSharedCatalog
-"Shared Catalog (or Customer Group)","Shared Catalog (or Customer Group)",module,Magento_NegotiableQuoteSharedCatalog
-"No New Relic Application ID configured, cannot continue with Cron Event reporting","هیچ شناسه برنامه Relic جدید پیکربندی نشده است، نمی تواند با گزارش رویداد Cron ادامه یابد",module,Magento_NewRelicReporting
+"No such public catalog entity","چنین ورودی عمومی کاتالوگی وجود ندارد",module,Magento_NegotiableQuoteSharedCatalog
+"The product that was requested doesn't exist. Verify the product and try again.","محصول درخواست شده وجود ندارد. محصول را بررسی کرده و دوباره امتحان کنید.",module,Magento_NegotiableQuoteSharedCatalog
+"Shared Catalog (or Customer Group)","کاتالوگ مشترک (یا گروه مشتری)",module,Magento_NegotiableQuoteSharedCatalog
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","هیچ شناسه برنامه Relic جدیدی پیکربندی نشده است، نمی تواند با گزارش رویداد Cron ادامه یابد",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","یکپارچگی جدید Relic نیاز به agent newrelic-php5 دارد که نصب نشده است. بیشتر
-                         اطلاعات مربوط به نصب عامل در <a target=""_blank"" href=""<a target=""_blank"" href=""%1"">""> اینجا </a> موجود است.",module,Magento_NewRelicReporting
-"New Relic Reporting Section","بخش گزارشگری Relic جدید",module,Magento_NewRelicReporting
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","یکپارچگی جدید Relic نیاز به newrelic-php5 agent دارد که نصب نشده است. بیشتر
+                         اطلاعات مربوط به نصب agent در <a target=""_blank"" href=""<a target=""_blank"" href=""%1"">""> اینجا </a> موجود است.",module,Magento_NewRelicReporting
+"New Relic Reporting Section","بخش گزارش Relic جدید",module,Magento_NewRelicReporting
 "New Relic Reporting","گزارش جدید Relic",module,Magento_NewRelicReporting
 "General","عمومی",module,Magento_NewRelicReporting
-"Enable New Relic Integration","فعال کردن یکپارچگی Relic جدید",module,Magento_NewRelicReporting
+"Enable New Relic Integration","فعالسازی یکپارچه سازی Relic جدید",module,Magento_NewRelicReporting
 "New Relic API URL","URL جدید Relic API",module,Magento_NewRelicReporting
 "Insights API URL","بینش URL API",module,Magento_NewRelicReporting
-"Use %s to replace the account ID in the URL","از%s برای جایگزینی شناسه حساب در URL استفاده کنید",module,Magento_NewRelicReporting
-"New Relic Account ID","شناسه حساب Relic جدید",module,Magento_NewRelicReporting
+"Use %s to replace the account ID in the URL","از%s برای جایگزینی شناسه حساب کاربری در URL استفاده کنید",module,Magento_NewRelicReporting
+"New Relic Account ID","شناسه حساب کاربری Relic جدید",module,Magento_NewRelicReporting
 """Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""نیاز به یک حساب Relic جدید دارید؟ <a href=""http://www.newrelic.com/magento"" target=""_blank""> اینجا را کلیک کنید تا یکی را انتخاب کنید",module,Magento_NewRelicReporting
 "New Relic Application ID","شناسه برنامه Relic جدید",module,Magento_NewRelicReporting
-"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","این می تواند معمولا در پایان URL در هنگام مشاهده APM پس از ""/ برنامه های کاربردی /"" یافت شود",module,Magento_NewRelicReporting
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","این می تواند معمولا در پایان URL در هنگام نمایش APM پس از ""/ برنامه های کاربردی /"" یافت شود",module,Magento_NewRelicReporting
 "New Relic API Key","کلید جدید Relic API",module,Magento_NewRelicReporting
-"This is located by navigating to Events -> Deployments from the New Relic APM website","این است که با رفتن به رویدادها -> Deployments از وب سایت جدید Relic APM قرار گرفته است",module,Magento_NewRelicReporting
+"This is located by navigating to Events -> Deployments from the New Relic APM website","این در رویدادها -> Deployments از وب سایت جدید Relic APM قرار دارد",module,Magento_NewRelicReporting
 "Insights API Key","بینش کلید API",module,Magento_NewRelicReporting
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","در Insights در Data Management تولید شده است -> کلید های API -> کلید های درج شده",module,Magento_NewRelicReporting
 "New Relic Application Name","نام جدید برنامه Relic",module,Magento_NewRelicReporting
-"This is located by navigating to Settings from the New Relic APM website","این با رفتن به تنظیمات از وب سایت Relic APM جدید قرار دارد",module,Magento_NewRelicReporting
+"This is located by navigating to Settings from the New Relic APM website","این در تنظیمات از وب سایت Relic APM جدید قرار دارد",module,Magento_NewRelicReporting
 "Cron","Cron",module,Magento_NewRelicReporting
-"Enable Cron","فعال کردن Cron",module,Magento_NewRelicReporting
+"Enable Cron","فعالسازی Cron",module,Magento_NewRelicReporting
 "Delete Selected Problems","حذف مشکلات انتخاب شده",module,Magento_Newsletter
 "Unsubscribe Selected","لغو اشتراک انتخاب شده",module,Magento_Newsletter
 "Back","بازگشت",module,Magento_Newsletter
-"Reset","بازنشانی",module,Magento_Newsletter
+"Reset","تنظیم مجدد",module,Magento_Newsletter
 "Preview Template","پیش نمایش قالب",module,Magento_Newsletter
-"Save Newsletter","ذخیره‌ی خبرنامه",module,Magento_Newsletter
-"Save and Resume","ذخیره و ادامه",module,Magento_Newsletter
-"View Newsletter","مشاهده‌ی خبرنامه",module,Magento_Newsletter
+"Save Newsletter","ذخیره‌ خبرنامه",module,Magento_Newsletter
+"Save and Resume","ذخیره و از سرگیری",module,Magento_Newsletter
+"View Newsletter","نمایش خبرنامه",module,Magento_Newsletter
 "Edit Newsletter","ویرایش خبرنامه",module,Magento_Newsletter
 "Queue Information","اطلاعات صف",module,Magento_Newsletter
-"Queue Date Start","شروع تاریخ صف",module,Magento_Newsletter
+"Queue Date Start","تاریخ شروع صف",module,Magento_Newsletter
 "Subscribers From","فرم مشترکین",module,Magento_Newsletter
 "Subject","موضوع",module,Magento_Newsletter
 "Sender Name","نام فرستنده",module,Magento_Newsletter
 "Sender Email","ایمیل فرستنده",module,Magento_Newsletter
-"Message","پیام",module,Magento_Newsletter
-"Newsletter Styles","سبک خبرنامه",module,Magento_Newsletter
+"Message","پیغام",module,Magento_Newsletter
+"Newsletter Styles","سبک های خبرنامه",module,Magento_Newsletter
 "Start","شروع",module,Magento_Newsletter
 "Pause","توقف",module,Magento_Newsletter
 "Do you really want to cancel the queue?","شما واقعا می‌خواهید صف را لغو کنید؟",module,Magento_Newsletter
 "Cancel","لغو",module,Magento_Newsletter
-"Resume","ادامه دادن",module,Magento_Newsletter
+"Resume","از سرگیری",module,Magento_Newsletter
 "Preview","پيش نمايش",module,Magento_Newsletter
-"Add New Template","اضافه کردن قالب جدید",module,Magento_Newsletter
-"Newsletter Templates","قالب‌های خبرنامه",module,Magento_Newsletter
+"Add New Template","افزودن قالب جدید",module,Magento_Newsletter
+"Newsletter Templates","قالب‌ های خبرنامه",module,Magento_Newsletter
 "Convert to Plain Text","تبدیل به متن ساده",module,Magento_Newsletter
-"Return HTML Version","نسخه‌ی HTML را برگردان",module,Magento_Newsletter
+"Return HTML Version","نسخه‌ HTML را برگردان",module,Magento_Newsletter
 "Delete Template","حذف قالب",module,Magento_Newsletter
 "Save As","ذخیره به عنوان",module,Magento_Newsletter
-"Save Template","ذخیره‌ی قالب",module,Magento_Newsletter
+"Save Template","ذخیره‌ قالب",module,Magento_Newsletter
 "Edit Newsletter Template","ویرایش قالب خبرنامه",module,Magento_Newsletter
-"New Newsletter Template","قالب خبرنامه‌ی جدید",module,Magento_Newsletter
+"New Newsletter Template","قالب خبرنامه‌ جدید",module,Magento_Newsletter
 "Template Information","اطلاعات قالب",module,Magento_Newsletter
 "Template Name","نام قالب",module,Magento_Newsletter
 "Template Subject","موضوع قالب",module,Magento_Newsletter
 "Template Content","محتوای قالب",module,Magento_Newsletter
-"Template Styles","طرح‌های قالب",module,Magento_Newsletter
+"Template Styles","طرح‌ های قالب",module,Magento_Newsletter
 "No Templates Found","قالبی یافت نشد",module,Magento_Newsletter
 "ID","شناسه",module,Magento_Newsletter
 "Template","قالب",module,Magento_Newsletter
@@ -7968,84 +7968,84 @@
 "Template Type","نوع قالب",module,Magento_Newsletter
 "Action","اقدام",module,Magento_Newsletter
 "Queue Newsletter","صف خبرنامه",module,Magento_Newsletter
-"We unsubscribed the people you identified.","ما افرادی را که شناسایی کرده اید، لغو می کنیم.",module,Magento_Newsletter
+"We unsubscribed the people you identified.","ما افرادی را که شناسایی کرده اید، لغو اشتراک کردیم.",module,Magento_Newsletter
 "The problems you identified have been deleted.","مشکلات شناسایی شده شما حذف شده اند.",module,Magento_Newsletter
 "Newsletter Problems Report","گزارش مشکلات خبرنامه",module,Magento_Newsletter
 "Newsletter Problem Reports","گزارشات مشکل خبرنامه",module,Magento_Newsletter
 "Newsletter Queue","صف خبرنامه",module,Magento_Newsletter
 "Edit Queue","ویرایش صف",module,Magento_Newsletter
-"Please correct the newsletter template and try again.","قالب خبرنامه را تصحیح و دوباره سعی کنید.",module,Magento_Newsletter
+"Please correct the newsletter template and try again.","لطفا قالب خبرنامه را اصلاح کرده و دوباره امتحان کنید.",module,Magento_Newsletter
 "You saved the newsletter queue.","شما صف خبرنامه را ذخیره کردید.",module,Magento_Newsletter
 "Newsletter Subscribers","مشترکین خبرنامه",module,Magento_Newsletter
 "Newsletter","خبرنامه",module,Magento_Newsletter
 "Subscribers","مشترکین",module,Magento_Newsletter
 "Please select one or more subscribers.","لطفا یک یا چند مشترک را انتخاب کنید.",module,Magento_Newsletter
-"Total of %1 record(s) were deleted.","مجموع %1 رکورد (ها) حذف شدند.",module,Magento_Newsletter
-"A total of %1 record(s) were updated.","مجموع %1 رکورد (ها) به روز شدند.",module,Magento_Newsletter
+"Total of %1 record(s) were deleted.","مجموعا %1 رکورد حذف شد.",module,Magento_Newsletter
+"A total of %1 record(s) were updated.","مجموعا %1 رکورد به روز رسانی شد.",module,Magento_Newsletter
 "The newsletter template has been deleted.","قالب خبرنامه حذف شده است.",module,Magento_Newsletter
 "We can't delete this template right now.","اکنون نمیتوانیم این الگو را حذف کنیم.",module,Magento_Newsletter
 "Edit Template","ویرایش قالب",module,Magento_Newsletter
 "New Template","قالب جدید",module,Magento_Newsletter
 "Create Newsletter Template","ایجاد قالب خبرنامه",module,Magento_Newsletter
 "The newsletter template has been saved.","قالب خبرنامه ذخیره شده است.",module,Magento_Newsletter
-"Something went wrong while saving this template.","هنگام ذخیره در این الگو، اشتباهی رخ داده.",module,Magento_Newsletter
+"Something went wrong while saving this template.","هنگام ذخیره این قالب، خطایی رخ داد.",module,Magento_Newsletter
 "Newsletter Subscription","اشتراک خبرنامه",module,Magento_Newsletter
-"Something went wrong while saving your subscription.","هنگام ذخیره در اشتراک خود، اشتباهی رخ داده.",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","هنگام ذخیره اشتراک شما، خطایی رخ داد.",module,Magento_Newsletter
 "We saved the subscription.","ما اشتراک را ذخیره کرده ایم.",module,Magento_Newsletter
 "We removed the subscription.","ما اشتراک را حذف کرده ایم.",module,Magento_Newsletter
-"Your subscription has been confirmed.","اشتراک شما تایید شده است.",module,Magento_Newsletter
+"Your subscription has been confirmed.","اشتراک شما تأیید شده است.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","این یک کد تأیید اشتراک نامعتبر است.",module,Magento_Newsletter
-"This is an invalid subscription ID.","این شناسه اشتراک نامعتبر است.",module,Magento_Newsletter
+"This is an invalid subscription ID.","این یک شناسه اشتراک نامعتبر است.",module,Magento_Newsletter
 "This email address is already assigned to another user.","این آدرس ایمیل در حال حاضر به یک کاربر دیگر اختصاص داده شده است.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","با عرض پوزش، اما مدیر، اشتراک مهمان ها را رد کرد. لطفا <a href=""<a href=""%1"">""> ثبت نام کنید </a>.",module,Magento_Newsletter
 "Please enter a valid email address.","لطفا یک آدرس ایمیل معتبر وارد نمایید.",module,Magento_Newsletter
 "This email address is already subscribed.","این آدرس ایمیل قبلا مشترک شده است.",module,Magento_Newsletter
 "The confirmation request has been sent.","درخواست تأیید ارسال شده است.",module,Magento_Newsletter
-"Thank you for your subscription.","از شما برای اشتراک‌تان سپاس گزاریم.",module,Magento_Newsletter
-"There was a problem with the subscription: %1","یک مشکل با اشتراک: %1 وجود داشت",module,Magento_Newsletter
-"Something went wrong with the subscription.","برای اشتراک اشتباهی رخ داده.",module,Magento_Newsletter
-"You unsubscribed.","شما لغو اشتراک شده اید.",module,Magento_Newsletter
-"Something went wrong while unsubscribing you.","هنگام لغو اشتراک شما، اشتباهی رخ داده.",module,Magento_Newsletter
-"Sent","فرستاده شد",module,Magento_Newsletter
-"Cancelled","لغو",module,Magento_Newsletter
-"Not Sent","فرستاده نشده",module,Magento_Newsletter
-"Sending","در حال فرستادن",module,Magento_Newsletter
+"Thank you for your subscription.","از شما برای اشتراک‌ در خبرنامه سپاسگزاریم.",module,Magento_Newsletter
+"There was a problem with the subscription: %1","یک مشکل با اشتراک: %1 وجود دارد",module,Magento_Newsletter
+"Something went wrong with the subscription.","برای این اشتراک، خطایی رخ داد.",module,Magento_Newsletter
+"You unsubscribed.","اشتراک شما لغو شد.",module,Magento_Newsletter
+"Something went wrong while unsubscribing you.","هنگام لغو اشتراک شما، خطایی رخ داد.",module,Magento_Newsletter
+"Sent","ارسال شد",module,Magento_Newsletter
+"Cancelled","لغو شده",module,Magento_Newsletter
+"Not Sent","ارسال نشد",module,Magento_Newsletter
+"Sending","در حال ارسال",module,Magento_Newsletter
 "Paused","متوقف شد",module,Magento_Newsletter
 "There are no subscribers selected.","هیچ مشترکی انتخاب نشده است.",module,Magento_Newsletter
 "You selected an invalid queue.","یک صف نامعتبر را انتخاب کردید.",module,Magento_Newsletter
-"We cannot mark as received subscriber.","ما نمیتوانیم به عنوان مشترک دریافت شده علامت بزنیم.",module,Magento_Newsletter
-"Duplicate template code","کد قالب تکراری",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","برای لغو اشتراک این لینک را دنبال کنید <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
-"No such entity with %fieldName = %fieldValue","چنین موجودی با %fieldName = %fieldValue وجود ندارد",module,Magento_Newsletter
-"Choose Store View:","فروشگاه نمایش را انتخاب کنید:",module,Magento_Newsletter
-"Newsletter Message Preview","پیش نمایش پیام خبرنامه",module,Magento_Newsletter
+"We cannot mark as received subscriber.","ما نمی توانیم به عنوان مشترک گیرنده علامت بزنیم.",module,Magento_Newsletter
+"Duplicate template code","ایجاد نسخه تکراری از کد قالب",module,Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","برای لغو اشتراک این لینک را دنبال کنید <!-- این برچسب برای لینک لغو اشتراک است  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
+"No such entity with %fieldName = %fieldValue","این ورودی %fieldName = %fieldValue وجود ندارد",module,Magento_Newsletter
+"Choose Store View:","انتخاب نمای فروشگاه:",module,Magento_Newsletter
+"Newsletter Message Preview","پیش نمایش پیغام خبرنامه",module,Magento_Newsletter
 "Add to Queue","افزودن به صف",module,Magento_Newsletter
-"Are you sure that you want to strip all tags?","شما مطمئن‌اید که می خواهید همه‌ی تگ‌ها را بردارید؟",module,Magento_Newsletter
-"Please enter a new template name.","لطفا یک نام الگو جدید وارد کنید.",module,Magento_Newsletter
+"Are you sure that you want to strip all tags?","آیا مطمئن هستید که می خواهید همه برچسب ها را خالی کنید؟",module,Magento_Newsletter
+"Please enter a new template name.","لطفا یک نام قالب جدید وارد کنید.",module,Magento_Newsletter
 "Copy","کپی",module,Magento_Newsletter
-"Are you sure you want to delete this template?","شما مطمئن‌اید که می خواهید این قالب را حذف کنید?",module,Magento_Newsletter
-"Sign Up for Our Newsletter:","نام نویسی برای خبرنامه‌ی ما:",module,Magento_Newsletter
-"Enter your email address","آدرس ایمیل‌تان را وارد نمایید",module,Magento_Newsletter
+"Are you sure you want to delete this template?","آیا مطمئن هستید که می خواهید این قالب را حذف کنید؟",module,Magento_Newsletter
+"Sign Up for Our Newsletter:","ثبت نام برای خبرنامه‌ ما:",module,Magento_Newsletter
+"Enter your email address","آدرس ایمیلتان را وارد نمایید",module,Magento_Newsletter
 "Subscribe","اشتراک",module,Magento_Newsletter
-"Newsletter subscription confirmation","تاییدیه‌ی اشتراک خبرنامه",module,Magento_Newsletter
-"Thank you for subscribing to our newsletter.","با تشکر از شما برای عضویت در خبرنامه ما.",module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","برای دریافت خبرنامه ابتدا باید با کلیک روی پیوند زیر، اشتراک خود را تأیید کنید:",module,Magento_Newsletter
+"Newsletter subscription confirmation","تأییدیه‌ اشتراک خبرنامه",module,Magento_Newsletter
+"Thank you for subscribing to our newsletter.","از شما برای اشتراک‌ در خبرنامه سپاسگزاریم.",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","برای دریافت خبرنامه ابتدا باید با کلیک روی لینک زیر، اشتراک خود را تأیید کنید:",module,Magento_Newsletter
 "Newsletter subscription success","اشتراک خبرنامه با موفقیت انجام شد",module,Magento_Newsletter
-"You have been successfully subscribed to our newsletter.","شما با موفقیت به خبرنامه ما مشترک شده اید.",module,Magento_Newsletter
-"Newsletter unsubscription success","موفقیت لغو اشتراک خبرنامه",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","شما از خبرنامه لغو شده اید.",module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","شما با موفقیت مشترک خبرنامه ما شده اید.",module,Magento_Newsletter
+"Newsletter unsubscription success","لغو اشتراک خبرنامه با موفقیت انجام شد",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","شما از خبرنامه لغو اشتراک شده اید.",module,Magento_Newsletter
 "Newsletter Template","قالب خبرنامه",module,Magento_Newsletter
 "Newsletter Section","بخش خبرنامه",module,Magento_Newsletter
-"Subscription Options","گزینه‌های اشتراک",module,Magento_Newsletter
-"Allow Guest Subscription","اجازه‌ی اشتراک به مهمان",module,Magento_Newsletter
-"Need to Confirm","نیازمند تایید",module,Magento_Newsletter
-"Confirmation Email Sender","فرستنده‌ی ایمیل تاییدیه",module,Magento_Newsletter
-"Confirmation Email Template","قالب ایمیل تاییدیه",module,Magento_Newsletter
-"Email template chosen based on theme fallback when ""Default"" option is selected.","قالب ایمیل انتخاب شده بر اساس پشت زمینه تم هنگامی که گزینه "" پیش فرض"" انتخاب شده است.",module,Magento_Newsletter
-"Success Email Sender","فرستنده‌ی ایمیل موفقیت",module,Magento_Newsletter
-"Success Email Template","قالب ایمیل موفقیت",module,Magento_Newsletter
-"Unsubscription Email Sender","فرستنده‌ی ایمیل لغو اشتراک",module,Magento_Newsletter
-"Unsubscription Email Template","قالب ایمیل لغو اشتراک",module,Magento_Newsletter
+"Subscription Options","گزینه‌ های اشتراک",module,Magento_Newsletter
+"Allow Guest Subscription","اجازه‌ اشتراک به مهمان",module,Magento_Newsletter
+"Need to Confirm","نیازمند تآیید",module,Magento_Newsletter
+"Confirmation Email Sender","فرستنده‌ ایمیل تآییدیه",module,Magento_Newsletter
+"Confirmation Email Template","قالب ایمیل تآییدیه",module,Magento_Newsletter
+"Email template chosen based on theme fallback when ""Default"" option is selected.","زمانی که گزینه ""پیش فرض"" انتخاب شده باشد، قالب ایمیل انتخاب شده بر اساس تم آلترناتیو است.",module,Magento_Newsletter
+"Success Email Sender","فرستنده‌ ایمیل موفق",module,Magento_Newsletter
+"Success Email Template","قالب ایمیل موفق",module,Magento_Newsletter
+"Unsubscription Email Sender","لغو اشتراک فرستنده‌ ایمیل",module,Magento_Newsletter
+"Unsubscription Email Template","لغو اشتراک قالب ایمیل",module,Magento_Newsletter
 "We found no problems.","ما هیچ مشکلی پیدا نکردیم.",module,Magento_Newsletter
 "Subscriber","مشترک",module,Magento_Newsletter
 "Queue Start Date","تاریخ شروع صف",module,Magento_Newsletter
@@ -8064,131 +8064,131 @@
 "Email","ايميل",module,Magento_Newsletter
 "Type","نوع",module,Magento_Newsletter
 "Guest","مهمان",module,Magento_Newsletter
-"Customer","مشتري",module,Magento_Newsletter
-"Customer First Name","نام کوچک مشتری",module,Magento_Newsletter
-"Customer Last Name","نام خانوادگي مشتري",module,Magento_Newsletter
+"Customer","مشتری",module,Magento_Newsletter
+"Customer First Name","نام مشتری",module,Magento_Newsletter
+"Customer Last Name","نام خانوادگی مشتری",module,Magento_Newsletter
 "Not Activated","فعال نشده",module,Magento_Newsletter
 "Subscribed","مشترک شده",module,Magento_Newsletter
 "Unsubscribed","لغو اشتراک شده",module,Magento_Newsletter
-"Unconfirmed","تائید نشده",module,Magento_Newsletter
+"Unconfirmed","تأیید نشده",module,Magento_Newsletter
 "Web Site","وب سایت",module,Magento_Newsletter
 "Store","فروشگاه",module,Magento_Newsletter
-"Store View","نمايش فروشگاه",module,Magento_Newsletter
-"Newsletter Subscriptions","اشتراک‌های خبرنامه",module,Magento_Newsletter
-"Make Check payable to:","چک را قابل پرداخت کنید برای:",module,Magento_OfflinePayments
+"Store View","نمای فروشگاه",module,Magento_Newsletter
+"Newsletter Subscriptions","اشتراک‌ های خبرنامه",module,Magento_Newsletter
+"Make Check payable to:","چک قابل پرداخت برای:",module,Magento_OfflinePayments
 "Send Check to:","ارسال چک به:",module,Magento_OfflinePayments
-"Purchase Order Number","تعداد سفارش خريد",module,Magento_OfflinePayments
-"Make Check payable to: %1","چک:%1 را پرداخت کنید",module,Magento_OfflinePayments
-"Purchase Order Number: %1","خرید سفارش شماره:%1",module,Magento_OfflinePayments
-"Make Check payable to","چک را قابل پرداخت کنید برای",module,Magento_OfflinePayments
+"Purchase Order Number","شماره سفارش",module,Magento_OfflinePayments
+"Make Check payable to: %1","چک قابل پرداخت برای: %1",module,Magento_OfflinePayments
+"Purchase Order Number: %1","شماره سفارش: %1",module,Magento_OfflinePayments
+"Make Check payable to","چک قابل پرداخت برای",module,Magento_OfflinePayments
 "Send Check to","ارسال چک به",module,Magento_OfflinePayments
-"Place Order","ایجاد سفارش",module,Magento_OfflinePayments
-"Check / Money Order","چک / حواله‌ی پول",module,Magento_OfflinePayments
+"Place Order","ثبت سفارش",module,Magento_OfflinePayments
+"Check / Money Order","چک / حواله‌ پول",module,Magento_OfflinePayments
 "Enabled","فعال",module,Magento_OfflinePayments
-"New Order Status","وضعيت سفارش هاي جديد",module,Magento_OfflinePayments
-"Sort Order","ترتيب سفارش",module,Magento_OfflinePayments
+"New Order Status","وضعيت سفارش های جديد",module,Magento_OfflinePayments
+"Sort Order","مرتب سازی بر اساس",module,Magento_OfflinePayments
 "Title","عنوان",module,Magento_OfflinePayments
-"Payment from Applicable Countries","پرداخت از کشورهاي قابل اجرا",module,Magento_OfflinePayments
-"Payment from Specific Countries","پرداخت از کشورهاي خاص",module,Magento_OfflinePayments
-"Make Check Payable to","چک را قابل پرداخت کنید برای",module,Magento_OfflinePayments
-"Minimum Order Total","کمینه‌ی جمع کل سفارش",module,Magento_OfflinePayments
-"Maximum Order Total","بیشینه‌ی جمع کل سفارش",module,Magento_OfflinePayments
+"Payment from Applicable Countries","پرداخت از کشورهای قابل قبول",module,Magento_OfflinePayments
+"Payment from Specific Countries","پرداخت از کشورهای خاص",module,Magento_OfflinePayments
+"Make Check Payable to","چک قابل پرداخت برای",module,Magento_OfflinePayments
+"Minimum Order Total","مجموع حداقل تعداد سفارش",module,Magento_OfflinePayments
+"Maximum Order Total","مجموع حداکثر تعداد سفارش",module,Magento_OfflinePayments
 "Purchase Order","سفارش خرید",module,Magento_OfflinePayments
-"Bank Transfer Payment","پرداخت انتقال بانكي",module,Magento_OfflinePayments
+"Bank Transfer Payment","پرداخت انتقال بانكی",module,Magento_OfflinePayments
 "Instructions","دستورالعمل ها",module,Magento_OfflinePayments
-"Cash On Delivery Payment","پرداخت نقدي در هنگام تحويل",module,Magento_OfflinePayments
-"Zero Subtotal Checkout","تسویه‌ی جمع جز صفر",module,Magento_OfflinePayments
-"Automatically Invoice All Items","فاکتور کردن همه‌ی آیتم‌ها به طور خودکار",module,Magento_OfflinePayments
+"Cash On Delivery Payment","پرداخت در محل",module,Magento_OfflinePayments
+"Zero Subtotal Checkout","پرداخت مجموع صفر",module,Magento_OfflinePayments
+"Automatically Invoice All Items","فاکتور کردن همه‌ موارد به طور خودکار",module,Magento_OfflinePayments
 "Country","كشور",module,Magento_OfflineShipping
-"Region/State","منطقه/استان",module,Magento_OfflineShipping
+"Region/State","منطقه/ استان",module,Magento_OfflineShipping
 "Zip/Postal Code","کد پستی",module,Magento_OfflineShipping
-"Shipping Price","بهای ارسال",module,Magento_OfflineShipping
-"Export CSV","صدور CSV",module,Magento_OfflineShipping
+"Shipping Price","هزینه ارسال",module,Magento_OfflineShipping
+"Export CSV","خروجی گرفتن از CSV",module,Magento_OfflineShipping
 "Store Pickup","پیکاپ فروشگاه",module,Magento_OfflineShipping
 "Weight vs. Destination","وزن در برابر مقصد",module,Magento_OfflineShipping
-"Price vs. Destination","قمیت در برابر مقصد",module,Magento_OfflineShipping
-"# of Items vs. Destination","تعداد آیتم‌ها در برابر مقصد",module,Magento_OfflineShipping
+"Price vs. Destination","قیمت در برابر مقصد",module,Magento_OfflineShipping
+"# of Items vs. Destination","تعداد موارد در برابر مقصد",module,Magento_OfflineShipping
 "Weight (and above)","وزن (و بیشتر)",module,Magento_OfflineShipping
-"Order Subtotal (and above)","جمع جز سفارش (و بیشتر)",module,Magento_OfflineShipping
-"# of Items (and above)","تعداد آیتم‌ها (و بیشتر)",module,Magento_OfflineShipping
-"The ""%1"" code type for Table Rate is incorrect. Verify the type and try again.","نوع کد %1 برای نرخ جدول نادرست است. نوع را تایپ کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
-"The ""%1: %2"" code type for Table Rate is incorrect. Verify the type and try again.","نوع کد ""%1:%2"" برای جدول امتیاز نادرست است. نوع را تایپ کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
-"None","هیچ یک",module,Magento_OfflineShipping
-"Per Order","بر سفارش",module,Magento_OfflineShipping
-"Per Item","بر آیتم",module,Magento_OfflineShipping
-"Unable to import data","نمیتوان داده را وارد کرد",module,Magento_OfflineShipping
-"Something went wrong while importing table rates.","هنگام وارد کردن نرخ جدول اشتباهی رخ داده.",module,Magento_OfflineShipping
+"Order Subtotal (and above)","مجموع سفارش (و بیشتر)",module,Magento_OfflineShipping
+"# of Items (and above)","تعداد موارد (و بیشتر)",module,Magento_OfflineShipping
+"The ""%1"" code type for Table Rate is incorrect. Verify the type and try again.","نوع کد %1 برای نرخ جدول نادرست است. نوع را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"The ""%1: %2"" code type for Table Rate is incorrect. Verify the type and try again.","نوع کد ""%1:%2"" برای نرخ جدول نادرست است. نوع را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"None","هیچ کدام",module,Magento_OfflineShipping
+"Per Order","در هر سفارش",module,Magento_OfflineShipping
+"Per Item","در هر مورد",module,Magento_OfflineShipping
+"Unable to import data","نمی توان داده را وارد کرد",module,Magento_OfflineShipping
+"Something went wrong while importing table rates.","هنگام وارد کردن نرخ های جدول خطایی رخ داد.",module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","ما نمی توانیم این فایل را به دلیل این خطاها: %1 وارد کنیم",module,Magento_OfflineShipping
 "Requested column ""%1"" cannot be resolved","ستون درخواست شده ""%1"" قابل حل نیست",module,Magento_OfflineShipping
 "Column ""%1"" not found","ستون ""%1"" یافت نشد",module,Magento_OfflineShipping
-"The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","فرمت فایل نرخ جدول در شماره ردیف ""%1"" اشتباه است. فرمت را بررسی کنید و دوباره امتحان کنید.",module,Magento_OfflineShipping
-"The ""%1"" country in row number ""%2"" is incorrect. Verify the country and try again.","کشور ""%1"" در شماره ردیف ""%2"" نادرست است کشور را تأیید کنید و دوباره امتحان کنید.",module,Magento_OfflineShipping
-"The ""%1"" region or state in row number ""%2"" is incorrect. Verify the region or state and try again.","منطقه ""%1"" یا حالت شماره ردیف ""%2"" نادرست است. منطقه یا حالت را تأیید کنید و دوباره امتحان کنید.",module,Magento_OfflineShipping
-"Please correct %1 ""%2"" in the Row #%3.","لطفا %1 "" %2"" را در ردیف # %3 رفع کنید.",module,Magento_OfflineShipping
-"The ""%1"" shipping price in row number ""%2"" is incorrect. Verify the shipping price and try again.","قیمت حمل و نقل ""%1"" در شماره ردیف ""%2"" نادرست است. قیمت حمل و نقل را بررسی کنید و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","فرمت فایل نرخ های جدول در شماره ردیف ""%1"" اشتباه است. فرمت را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"The ""%1"" country in row number ""%2"" is incorrect. Verify the country and try again.","""%1"" کشور در شماره ردیف ""%2"" نادرست است. کشور را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"The ""%1"" region or state in row number ""%2"" is incorrect. Verify the region or state and try again.","منطقه یا استان ""%1"" در شماره ردیف ""%2"" نادرست است. منطقه یا استان را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"Please correct %1 ""%2"" in the Row #%3.","لطفا %1 "" %2"" را در ردیف # %3 اصلاح کنید.",module,Magento_OfflineShipping
+"The ""%1"" shipping price in row number ""%2"" is incorrect. Verify the shipping price and try again.","قیمت ارسال ""%1"" در شماره ردیف ""%2"" نادرست است. قیمت ارسال را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
 "Duplicate Row #%1 (duplicates row #%2)","ردیف تکراری #%1 (تکرار ردیف #%2)",module,Magento_OfflineShipping
-"The Table Rates File Format is incorrect. Verify the format and try again.","فرمت نرخ جدول نادرست است. فرمت را بررسی کنید و دوباره امتحان کنید.",module,Magento_OfflineShipping
+"The Table Rates File Format is incorrect. Verify the format and try again.","فرمت فایل نرخ های جدول نادرست است. فرمت را بررسی کرده و دوباره امتحان کنید.",module,Magento_OfflineShipping
 "No","خیر",module,Magento_OfflineShipping
-"For matching items only","تنها برای تطابق آیتم‌ها",module,Magento_OfflineShipping
-"For shipment with matching items","برای محموله با آیتم‌های مطابق",module,Magento_OfflineShipping
+"For matching items only","تنها برای موارد مشابه",module,Magento_OfflineShipping
+"For shipment with matching items","برای ارسال با موارد مشابه",module,Magento_OfflineShipping
 "Field","فیلد",module,Magento_OfflineShipping
-"is required.","مورد نیاز است.",module,Magento_OfflineShipping
+"is required.","الزامی است.",module,Magento_OfflineShipping
 "Flat Rate","نرخ یکنواخت",module,Magento_OfflineShipping
 "Enabled","فعال",module,Magento_OfflineShipping
 "Method Name","نام روش",module,Magento_OfflineShipping
 "Price","قيمت",module,Magento_OfflineShipping
-"Calculate Handling Fee","محاسبه‌ی هزینه‌ی رسیدگی",module,Magento_OfflineShipping
-"Handling Fee","هزینه‌ی رسیدگی",module,Magento_OfflineShipping
-"Sort Order","ترتيب سفارش",module,Magento_OfflineShipping
+"Calculate Handling Fee","محاسبه‌ هزینه‌ متفرقه",module,Magento_OfflineShipping
+"Handling Fee","هزینه‌ متفرقه",module,Magento_OfflineShipping
+"Sort Order","مرتب سازی بر اساس",module,Magento_OfflineShipping
 "Title","عنوان",module,Magento_OfflineShipping
 "Type","نوع",module,Magento_OfflineShipping
-"Ship to Applicable Countries","پرداخت از کشورهای مناسب",module,Magento_OfflineShipping
+"Ship to Applicable Countries","ارسال به کشورهای قابل قبول",module,Magento_OfflineShipping
 "Ship to Specific Countries","ارسال به کشورهای خاص",module,Magento_OfflineShipping
-"Show Method if Not Applicable","نمایش روش اگر اجرا شدنی نبود",module,Magento_OfflineShipping
-"Displayed Error Message","پیام خطای نمایش داده شده",module,Magento_OfflineShipping
-"Table Rates","نرخ جدول",module,Magento_OfflineShipping
+"Show Method if Not Applicable","اگر روش اجرا شدنی نبود، آن را نمایش بده",module,Magento_OfflineShipping
+"Displayed Error Message","پیغام خطای نمایش داده شده",module,Magento_OfflineShipping
+"Table Rates","نرخ های جدول",module,Magento_OfflineShipping
 "Condition","شرط",module,Magento_OfflineShipping
-"Include Virtual Products in Price Calculation","شامل محصولات مجازی در محاسبه‌ی قیمت",module,Magento_OfflineShipping
-"Export","صادرات",module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation","شامل محصولات مجازی در محاسبه‌ قیمت",module,Magento_OfflineShipping
+"Export","خروجی گرفتن",module,Magento_OfflineShipping
 "Import","وارد کردن",module,Magento_OfflineShipping
 "Free Shipping","ارسال رایگان",module,Magento_OfflineShipping
-"Minimum Order Amount","کمینه مبلغ سفارش",module,Magento_OfflineShipping
-"-- Please Select --","-- لطفا انتخاب کنيد --",module,Magento_OfflineShipping
-"Export VCL for Varnish %1","خروجی VCL برای Varnish %1",module,Magento_PageCache
-"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","مقدار Ttl ""%1 "" معتبر نیست. لطفا فقط اعداد برابر یا بیشتر از صفر استفاده کنید.",module,Magento_PageCache
-"Built-in Cache","ساخته شده در حافظه پنهان",module,Magento_PageCache
-"Varnish Cache (Recommended)","Varnish کش (توصیه می شود)",module,Magento_PageCache
+"Minimum Order Amount","حداقل مبلغ سفارش",module,Magento_OfflineShipping
+"-- Please Select --","--- لطفا انتخاب نمایید ---",module,Magento_OfflineShipping
+"Export VCL for Varnish %1","خروجی گرفتن از VCL برای Varnish %1",module,Magento_PageCache
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","مقدار Ttl ""%1 "" معتبر نیست. لطفا فقط از اعداد برابر یا بیشتر از صفر استفاده کنید.",module,Magento_PageCache
+"Built-in Cache","حافظه نهان داخلی",module,Magento_PageCache
+"Varnish Cache (Recommended)","حافظه نهان Varnish (توصیه شده)",module,Magento_PageCache
 "Unsupported varnish version","ورژن varnish پشتیبانی نشده",module,Magento_PageCache
-"Full Page Cache","کش کامل صفحه",module,Magento_PageCache
-"Caching Application","برنامه کش",module,Magento_PageCache
+"Full Page Cache","حافظه نهان کامل صفحه",module,Magento_PageCache
+"Caching Application","برنامه حافظه نهان",module,Magento_PageCache
 "Varnish Configuration","پیکربندی Varnish",module,Magento_PageCache
 "Access list","لیست دسترسی",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","لیست دسترسی آی پی با ""،"" که می تواند پیکربندی وارنیش را برای تولید فایل پیکربندی پاک کند.
                              اگر فیلد خالی باشد مقدار پیش فرض localhost ذخیره خواهد شد.",module,Magento_PageCache
-"Backend host","هاست Backend",module,Magento_PageCache
-"Specify backend host for config file generation. If field is empty default value localhost will be saved.","تعیین هاست backend برای تولید پرونده پیکربندی. اگر فیلد خالی باشد مقدار پیش فرض localhost ذخیره خواهد شد.",module,Magento_PageCache
-"Backend port","پورت Backend",module,Magento_PageCache
-"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","پورت backend را برای نسخۀ پرونده پیکربندی مشخص کنید. اگر فیلد خالی باشد مقدار پیش فرض مقدار 8080 ذخیره خواهد شد.",module,Magento_PageCache
+"Backend host","میزبان پنل مدیریت",module,Magento_PageCache
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","میزبان پنل مدیریت را برای پیکربندی تولید فایل تعیین کنید. اگر فیلد خالی باشد localhost مقدار پیش فرض ذخیره خواهد شد.",module,Magento_PageCache
+"Backend port","پورت پنل مدیریت",module,Magento_PageCache
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","پورت پنل مدیریت را برای پیکربندی تولید فایل تعیین کنید. اگر فیلد خالی باشد، مقدار پیش فرض 8080 ذخیره خواهد شد.",module,Magento_PageCache
 "Grace period","مهلت",module,Magento_PageCache
-"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","تعیین زمان فوری در ثانیه برای تولید پرونده پیکربندی. اگر فیلد خالی باشد مقدار پیش فرض 300 ذخیره خواهد شد. این دوره فایده برای خدمت به محتویات کش شده در هنگام سرور سالم استفاده می شود. اگر سرور سالم نباشد، محتویات ذخیره شده در حافظه به مدت 3 روز قبل از خرابی کش خواهد شد.",module,Magento_PageCache
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","برای پیکربندی تولید فایل مهلت را برحسب ثانیه مشخص کنید. اگر فیلد خالی باشد، مقدار پیش فرض 300 ذخیره خواهد شد. در هنگام سلامت سرور از این مهلت برای خدمت رسانی به محتوای حافطه نهان استفاده می شود. اگر سرور سالم نباشد، محتویات حافظه نهان متعلق به 3 روز قبل از خرابی خواهد بود.",module,Magento_PageCache
 "TTL for public content","TTL برای محتوای عمومی",module,Magento_PageCache
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","زمان حافظه پنهان در ثانیه اگر فیلد خالی باشد مقدار پیش فرض مقدار 86400 ذخیره خواهد شد.",module,Magento_PageCache
-"Page Cache","صفحه کش",module,Magento_PageCache
-"Full page caching","کش کامل صفحه",module,Magento_PageCache
-"We cannot retrieve the payment method model object.","ما نمیتوانیم مدل شیء روش پرداخت را بازیابی کنیم.",module,Magento_Payment
+"Page Cache","حافظه نهان صفحه",module,Magento_PageCache
+"Full page caching","حافظه نهان کامل صفحه",module,Magento_PageCache
+"We cannot retrieve the payment method model object.","ما نمی توانیم مدل شیء روش پرداخت را بازیابی کنیم.",module,Magento_Payment
 "Month","ماه",module,Magento_Payment
 "Year","سال",module,Magento_Payment
-"We cannot retrieve the payment info model object.","ما نمیتوانیم مدل اطلاعات پرداخت را بازیابی کنیم.",module,Magento_Payment
+"We cannot retrieve the payment info model object.","ما نمی توانیم مدل اطلاعات پرداخت را بازیابی کنیم.",module,Magento_Payment
 "N/A","هیچ",module,Magento_Payment
-"Credit Card Type","نوع کارت اعتباري",module,Magento_Payment
-"Credit Card Number","شماره کارت اعتباري",module,Magento_Payment
+"Credit Card Type","نوع کارت بانکی",module,Magento_Payment
+"Credit Card Number","شماره کارت بانکی",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","شماره صدور Switch/Solo/Maestro",module,Magento_Payment
 "Switch/Solo/Maestro Start Date","تاریخ شروع Switch/Solo/Maestro",module,Magento_Payment
 "We cannot retrieve the transparent payment method model object.","ما نمی توانیم مدل روش پرداخت شفاف را بازیابی کنیم.",module,Magento_Payment
-"The ""%1"" command executor isn't defined. Verify the executor and try again.","دستور executor ""%1"" تعریف نشده است. تأیید مجدد و دوباره امتحان کنید.",module,Magento_Payment
-"The ""%1"" command doesn't exist. Verify the command and try again.","دستور ""%1"" وجود ندارد دستور را تایید کرده و دوباره امتحان کنید.",module,Magento_Payment
-"Transaction has been declined. Please try again later.","تراکنش با موفقیت انجام نشده است. لطفا بعدا دوباره امتحان کنید.",module,Magento_Payment
+"The ""%1"" command executor isn't defined. Verify the executor and try again.","دستور executor ""%1"" تعریف نشده است. بررسی کرده و دوباره امتحان کنید.",module,Magento_Payment
+"The ""%1"" command doesn't exist. Verify the command and try again.","دستور ""%1"" وجود ندارد. دستور را بررسی کرده و دوباره امتحان کنید.",module,Magento_Payment
+"Transaction has been declined. Please try again later.","تراکنش ناموفق بود. لطفا بعدا دوباره امتحان نمایید.",module,Magento_Payment
 "The gateway response format was incorrect. Verify the format and try again.","فرمت پاسخ دروازه اشتباه بود فرمت را بررسی کنید و دوباره امتحان کنید.",module,Magento_Payment
 "The validator for the ""%1"" field doesn't exist.","اعتبار سنجی برای فیلد ""%1"" وجود ندارد.",module,Magento_Payment
 "Discount","تخفيف",module,Magento_Payment
