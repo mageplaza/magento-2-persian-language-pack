@@ -17,7 +17,7 @@ None,هیچ‌کدام,module,Magento_AdminGws
 "You need more permissions to save this setting.","برای ذخیره تنظیمات نیاز به دسترسی بیشتری دارید.",module,Magento_AdminGws
 "Role Scopes","محدوده‌های نقش",module,Magento_AdminGws
 Custom,سفارشی,module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","شما برای ذخیره این مورد دسترسی‌های مورد نیاز در محدوده‌ی فروشگاه فعلی را ندارید. لطفا، فروشگاه خورد را تغییر دهید",module,Magento_AdminGws
 "Read Details","خواندن جزئیات",module,Magento_AdminNotification
 "Mark as Read","خوانده شده",module,Magento_AdminNotification
 "Are you sure?","آیا مطمئن هستید؟",module,Magento_AdminNotification
