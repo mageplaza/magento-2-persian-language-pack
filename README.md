@@ -117,11 +117,13 @@ To download and install Persian pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fa_ir/fa_IR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fa_ir/`
 
-See this screenshot
+See this screenshot:
 
 ![Persian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **fa_ir**
 
 #### Step 2: Flush cache
 
