@@ -4,6 +4,7 @@ If you are planning to build a store at Iran, and you have a huge difficulty in 
 
 Read more [Magento 2 Persian Language Pack](https://www.mageplaza.com/magento-2-persian-language-pack.html)
 
+![Mageplaza Persian language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
