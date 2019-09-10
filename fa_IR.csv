@@ -1944,7 +1944,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Something went wrong  clearing the comparison list.","در هنگام پاک کردن لیست مقایسه، اشتباهی رخ داده است.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","شما محصول %1 را از لیست مقایسه حذف کرده اید.",module,Magento_Catalog
 "1 item","1 مورد",module,Magento_Catalog
-"%1 items","%1موردها",module,Magento_Catalog
+"%1 items","%1مورد",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","آیا مطمئن هستید می خواهید این مورد را از لیست مقایسه محصولات خود حذف کنید؟",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","آیا مطمئن هستید می خواهید همه موارد را از لیست مقایسه محصولات خود حذف کنید؟",module,Magento_Catalog
 "Invalid attribute %1","%1 ویژگی نامعتبر می باشد",module,Magento_Catalog
@@ -16071,7 +16071,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "We can't update your Wish List right now.","اکنون نمیتوانیم لیست دلخواه علاقه مندی را به روزرسانی کنیم.",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","لیست علاقه مندی مورد نظر وجود ندارد.",module,Magento_Wishlist
 "We can't create the Wish List right now.","اکنون نمیتوانیم لیست علاقه مندی خود را ایجاد کنیم.",module,Magento_Wishlist
-"%1 items","%1موردها",module,Magento_Wishlist
+"%1 items","%1مورد",module,Magento_Wishlist
 "1 item","1 مورد",module,Magento_Wishlist
 "Comment","نظر",module,Magento_Wishlist
 "Display number of items in wish list","نمایش تعداد آیتم ها در لیست علاقه مندی",module,Magento_Wishlist
